@@ -25,4 +25,5 @@ That said the Challange consist in the development of a component that will be u
 2. Checkout: Besides the GuideShop name and address also display the distance between the GuideShop and client, notice that our backend team was not able to deliver this information, so it'll be calculate in app side.
 
 *ps: The component may or may not have a custom header and footer, based on each scenario.
+
 [Scenarios](https://imgur.com/a/gNqT2yN)
