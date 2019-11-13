@@ -20,10 +20,9 @@ Our pairing API delivers a GuideShop CRUD, in AMARO app this CRUD is used in two
 1. BottomBar, display GuideShops with information purpose
 2. Checkout, allow GuideShop pickup
 
-That said the Challange consist on the develop of a component that will be used in these two different scenarios, each scnario have some differences:
+That said the Challange consist in the development of a component that will be used in these two different scenarios, each scenario have particularities:
 1. BottomBar: Display only GuideShop name and address, does not have a click action
-2. Checkout: Besides the GuideShop name and address also display the distance between the GuideShip and the client, notice that our backend team was not able to delivery this information, so it'll be need to calculate in app side.
+2. Checkout: Besides the GuideShop name and address also display the distance between the GuideShop and client, notice that our backend team was not able to deliver this information, so it'll be calculate in app side.
 
 *ps: The component may or may not have a custom header and footer, based on each scenario.
-
-[scenarios](https://imgur.com/a/gNqT2yN)
+[Scenarios](https://imgur.com/a/gNqT2yN)
