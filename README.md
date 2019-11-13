@@ -4,7 +4,7 @@
 This is a code challenge of 7 days duration. Please read all the instructions carefully.
 
 ## Setup
-Before starting make sure to setup and run our [pairing API code](https://github.com/amarofashion/android-pairing-api)
+Before starting make sure to setup and run our [pairing API code](https://github.com/amarofashion/android-pairing-api).
 
 ## Requirements
 - Must use: 
@@ -27,3 +27,6 @@ That said the Challenge consist in the development of a component that will be u
 *ps: The component may or may not have a custom header and footer, based on each scenario. The entry point can be a screen with two button for exemplo, there is no need to implement the BottomNavigationBar.
 
 [Scenarios](https://imgur.com/a/gNqT2yN)
+
+## Submission
+Send a link to a public git repo.
